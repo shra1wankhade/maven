@@ -7,7 +7,7 @@
   <groupId>shravan</groupId>
   <artifactId>maven-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>maven-demo</name>
   <!-- FIXME change it to the project's website -->
